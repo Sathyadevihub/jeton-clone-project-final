@@ -40,4 +40,3 @@ This project has been deployed on **Netlify** and can be accessed here:
 
 
 
-வேணுமா நான் `[Your Name]` இடத்தில் உங்கள் பெயரை வைத்து final text கொடுக்கட்டுமா?
